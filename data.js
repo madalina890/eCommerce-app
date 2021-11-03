@@ -9,7 +9,7 @@ const data ={
             countInStock: 7,
             rating:4.5,
             numReviews:10,
-            description:'The perfect balance for dry and mixed skin',
+            description:'The perfect balance for dry and mixed skin.',
         },
         {
             _id:'2',
@@ -31,7 +31,7 @@ const data ={
             countInStock: 32,
             rating:4,
             numReviews:8,
-            description:'The delicate foam makes the cleaning process feel like a blessing',
+            description:'The delicate foam makes the cleansing process feel like your skin is touched by rose petals.',
         },
         {
             _id:'4',
@@ -53,7 +53,7 @@ const data ={
             countInStock: 17,
             rating:5,
             numReviews:10,
-            description:'The best formula for tired skin is no longer a screet but ready to share with the world',
+            description:'The best formula for tired skin is no longer a screet but ready to share with the world.',
         },
         {
             _id:'6',
@@ -64,7 +64,7 @@ const data ={
             countInStock: 0,
             rating:3.5,
             numReviews:6,
-            description:'Just for the right amount of fresh',
+            description:'Just for the right amount of fresh.',
         },
         {
             _id:'7',
@@ -75,7 +75,7 @@ const data ={
             countInStock: 10,
             rating:4.5,
             numReviews:18,
-            description:'Our doctors descovered that this combination reduces dark circles by 68% ',
+            description:'Our doctors descovered that this combination reduces dark circles by 68%.',
         },
     ],
 };
