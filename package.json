@@ -1,0 +1,33 @@
+{
+  "name": "ecommerce",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madalina890/eCommerce-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madalina890/eCommerce-app/issues"
+  },
+  "homepage": "https://github.com/madalina890/eCommerce-app#readme",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12",
+    "react-redux": "^7.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "nodemon": "^2.0.14"
+  }
+}
